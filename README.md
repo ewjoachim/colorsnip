@@ -1,5 +1,8 @@
 # ColorSnip
 
+[![PyPI version](https://badge.fury.io/py/colorsnip.svg)](https://badge.fury.io/py/colorsnip)
+[![GitHub version](https://badge.fury.io/gh/ewjoachim%2Fcolorsnip.svg)](https://badge.fury.io/gh/ewjoachim%2Fcolorsnip)
+
 Command line tool: Copies the content of the given file (or stdin) to the clipboard
 with syntax coloring, so it can be pasted into a format-retaining software.
 
