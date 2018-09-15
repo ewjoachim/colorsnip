@@ -80,7 +80,7 @@ def colorsnip(filename):
         lexer=lexer,
         formatter=rtf_formatter)
 
-    copy(text, html=html, rtf=rtf)
+    copy(text=contents, html=html, rtf=rtf)
 
 
 if __name__ == '__main__':
